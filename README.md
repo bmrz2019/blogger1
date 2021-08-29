@@ -2,4 +2,8 @@
 
 Mobile Client for accessing Blogger
 
-`./gradlew assembleDebug `
+`./gradlew assembleDebug` 
+
+
+`./gradlew installDebug`
+
