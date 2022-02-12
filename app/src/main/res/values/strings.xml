@@ -10,10 +10,11 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="one">Blogger</string>
     <string name="two">Gmail</string>
-    <string name="three">Google</string>
+    <string name="three">Search</string>
     <string name="four">Drive</string>
     <string name="five">Starred</string>
     <string name="six">YouTube</string>
+    <string name="seven">Photos</string>
     <string name="sidebar_button_toggle_appbar_visibility">Toggle Appbar Visibility</string>
     <string name="sidebar_button_toggle_dark_mode">Toggle Dark Mode</string>
     <string name="sidebar_button_about">About</string>
