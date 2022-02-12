@@ -510,6 +510,8 @@ public class WebviewActivity extends AppCompatActivity implements NavigationView
             mWebView.loadUrl("https://drive.google.com/drive/starred");
         } else if (id == R.id.six) {
             mWebView.loadUrl("https://youtube.com");
+        } else if (id == R.id.seven) {
+            mWebView.loadUrl("https://photos.google.com");
         }
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
