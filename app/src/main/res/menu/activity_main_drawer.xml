@@ -28,6 +28,10 @@
             android:id="@+id/six"
             android:icon="@drawable/ic_reload"
             android:title="@string/six" />
+        <item
+            android:id="@+id/seven"
+            android:icon="@drawable/ic_reload"
+            android:title="@string/seven" />
 
     </group>
 
